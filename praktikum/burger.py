@@ -1,7 +1,5 @@
-import pytest
 from typing import List
-from Diplom_1 import bun
-from Diplom_1.database import Database
+
 from praktikum.bun import Bun
 from praktikum.ingredient import Ingredient
 
